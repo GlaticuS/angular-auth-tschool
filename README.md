@@ -208,7 +208,7 @@ Signature - криптографическая подпись, которая п
 
 ![Схема oauth](oauth-schema.png)
 
-Для более подробного знакомства с темами, предлагаю список следующих статей (или любых, которые вам понравятся из гугла. ЛЛМки также могут хорошо проконсультировать по теме):
+Для более подробного знакомства с темами, предлагаю список следующих статей (или любых, которые вам понравятся из гугла, ЛЛМки также могут хорошо проконсультировать по теме):
 - https://blog.logto.io/ru/token-based-authentication-vs-session-based-authentication
 - https://skillbox.ru/media/code/chto-takoe-oauth-20-ponyatie-i-printsip-raboty/
 - https://habr.com/ru/companies/vk/articles/343288/
