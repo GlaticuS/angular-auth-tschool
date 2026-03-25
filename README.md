@@ -208,5 +208,12 @@ Signature - криптографическая подпись, которая п
 
 ![Схема oauth](oauth-schema.png)
 
+Для более подробного знакомства с темами, предлагаю список следующих статей (или любых, которые вам понравятся из гугла. ЛЛМки также могут хорошо проконсультировать по теме):
+- https://blog.logto.io/ru/token-based-authentication-vs-session-based-authentication
+- https://skillbox.ru/media/code/chto-takoe-oauth-20-ponyatie-i-printsip-raboty/
+- https://habr.com/ru/companies/vk/articles/343288/
+- https://habr.com/ru/articles/720842/
+- https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Headers
 
+  
 Далее рассмотрим примеры реализации всех трех способов аутентификации + авторизации, а заодно поговорим про Angular Interceptors, Angular Guards
